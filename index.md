@@ -19,7 +19,7 @@
 
 ## Search in Complex Environments
 
-* [Local Search and Optimization Problems](./TUTORIAL/SECTIONS/local_search_and_optimization_problems.html)
+* [Local Search and Optimization Problems](./TUTORIALS/SECTIONS/local_search_and_optimization_problems/local_search_and_optimization_problems.html)
 * Local Search in Continuous Spaces
 * Evolutionary algorithms
 
