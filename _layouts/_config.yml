@@ -1,0 +1,13 @@
+theme: jekyll-theme-hacker
+title: [Search Algorithms]
+description: [Search Algorithms o'zbek tilida]
+show_downloads: false
+show_github_repository: false
+show_description: true
+show_visitors: true
+is_theme_by: false
+
+github:
+  martianvenusianorg_url: https://martianvenusianorg.github.io 
+  home_url: https://martianvenusianorg.github.io/search-algorithms/
+  repository_name: [Search Algorithms]
