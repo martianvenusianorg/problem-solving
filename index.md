@@ -19,8 +19,8 @@
 
 ## Search in Complex Environments
 
-* Local Search and Optimization Problems
+* [Local Search and Optimization Problems](TUTORIAL/SECTIONS/local_search_and_optimization_problems.md)
 * Local Search in Continuous Spaces
 * Evolutionary algorithms
 
-## [Adversarial Search]() and Games
+## Adversarial Search and Games
